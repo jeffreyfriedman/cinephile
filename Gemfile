@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'listen'
 gem 'devise'
 gem 'ruby_dep', '~> 1.4'
+gem 'twitter', '~> 5.11.0'
 
 group :development, :test do
   gem 'capybara'
